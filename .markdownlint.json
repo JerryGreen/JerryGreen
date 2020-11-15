@@ -1,0 +1,7 @@
+{
+  "no-multiple-blanks": false,
+  "no-inline-html": false,
+  "no-bare-urls": false,
+  "line-length": false,
+  "no-trailing-punctuation": false
+}
