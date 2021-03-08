@@ -1,3 +1,3 @@
-[submodule "posts/test-article"]
-	path = posts/test-article
-	url = https://gist.github.com/JerryGreen/df6da16e3d6e937e8f4d0d78bd7afc6c
+[submodule "posts/beginning-game-development"]
+	path = posts/beginning-game-development
+	url = https://gist.github.com/JerryGreen/5df4f9b1e71c3735f3cc25822f3c6919
